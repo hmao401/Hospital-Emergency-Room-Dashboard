@@ -39,7 +39,7 @@ The project focuses on data modelling, KPI design, and effective dashboard story
   Interactive Power BI dashboard file.
 - `Snapshot of Dashboard.pdf`  
   Static overview of the dashboard for quick viewing.
-- `hospital_er_data_synthetic.csv`  
+- `Hospital ER_Data.csv`  
   Synthetic dataset used to build and test the dashboard.
 
 ## Data Disclaimer
